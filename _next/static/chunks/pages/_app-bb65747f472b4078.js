@@ -57061,7 +57061,7 @@ spurious results.`)
         en = "true" === J.env.REACT_USES_OLD_LIQ_ABI,
         ei = "/img/logo.svg",
         ea = "/favicon.svg",
-        eo = J.env.REACT_COMPANY_LINK || "/",
+        eo = J.env.REACT_COMPANY_LINK || "https://vistaxai.xyz/",
         es = J.env.REACT_LOGO_WIDTH,
         el = "VistaX",
         eu = "/img/back.png",
